@@ -1,0 +1,11 @@
+name: scImm
+channels:
+ - conda-forge
+dependencies:
+ - python=3.8
+ - leidenalg
+ - pip
+ - pip:
+   # works for regular pip packages
+   - scarches
+   - protobuf==3.20.1
