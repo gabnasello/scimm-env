@@ -1,9 +1,12 @@
 name: scImm
 channels:
  - conda-forge
+ - bioconda
 dependencies:
  - python=3.8
  - leidenalg
+ - rpy2
+ - anndata2ri
  - pip
  - pip:
    # works for regular pip packages

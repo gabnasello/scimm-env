@@ -2,7 +2,7 @@
 
 ## How it works
 
-The ```Dockerfile``` creates a Docker Image from [gabnasello/datascience-env](https://hub.docker.com/repository/docker/gnasello/datascience-env). It creates the scImm virtual environment from the ```environment.ylm``` file.
+The ```Dockerfile``` creates a Docker Image from [gabnasello/scimm-env](https://hub.docker.com/repository/docker/gnasello/datascience-env). It creates the scImm virtual environment from the ```environment.ylm``` file.
 
 ## Create a new image
 
